@@ -10,6 +10,9 @@ public class AbcdApplication {
 		SpringApplication.run(AbcdApplication.class, args);
 		System.out.println("hii team lets make the project");
 		System.out.println("hello there");
+		System.out.println("hello auly");
+		System.out.println("hello shrey");
+		System.out.println("hello tcs");
      }
 
 }
