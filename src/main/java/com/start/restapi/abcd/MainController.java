@@ -1,11 +1,11 @@
-package com.start.restapi.abcd.controller;
+package com.start.restapi.abcd;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 @Controller
 public class MainController {
 	
-	@RequestMapping("/")
+	@RequestMapping("/users234")
 	public String home()
 	{
 		return "bookWebsiteHome.jsp";
