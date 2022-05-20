@@ -8,6 +8,7 @@ public class MainController {
 	@RequestMapping("/users234")
 	public String home()
 	{
+		System.out.println("hello controller");
 		return "bookWebsiteHome.jsp";
 	}
 	
